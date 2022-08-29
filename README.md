@@ -1,7 +1,5 @@
 ### Hi! 👋 I'm Nico.
 
-An independent Computer Science student in Institut Teknologi Kalimantan. I've enjoyed Python and make it the main language in creating a project.
-
 - 📫 How to reach me: nicosiahaan9898@gmail.com
 
 
